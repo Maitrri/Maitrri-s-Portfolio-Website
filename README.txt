@@ -56,7 +56,3 @@ I am always eager to connect with like-minded professionals, collaborators, and 
 ## Conclusion  
 
 This portfolio is more than just a collection of my work; it is a reflection of my dedication to continuous learning, innovation, and growth. Thank you for visiting my website, and I look forward to collaborating on exciting opportunities that make a difference!  
-
---- 
-
-This version is formatted with headings and paragraphs, ideal for a GitHub README file. Let me know if you'd like adjustments!
